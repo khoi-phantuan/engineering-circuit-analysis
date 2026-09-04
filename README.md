@@ -1,2 +1,2 @@
-# engineering-circuit-analysis
-Lab assignments completed for the Engineering Circuit Analysis course at university.
+# Engineering Circuit Analysis
+Lab assignments completed for the **Engineering Circuit Analysis** course at university.
