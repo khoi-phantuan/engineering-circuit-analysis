@@ -20,6 +20,7 @@
 
 ## Môi trường & Công cụ
 - **Phần mềm**: LTspice
+- **Thiết bị**: KIT thực hành và mạch nguồn được cấp, VOM ZOYI VC17B+ TRMS
 
 ---
 
