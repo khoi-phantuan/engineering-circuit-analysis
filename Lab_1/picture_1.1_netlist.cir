@@ -1,0 +1,14 @@
+*Hinh 1.1
+
+*Dien tro
+R1 2 3 20
+R2 1 2 10
+R3 2 0 35
+
+*Nguon ap
+V1 1 0 100
+V2 3 0 100
+
+.op
+
+.end
