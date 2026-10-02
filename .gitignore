@@ -1,0 +1,13 @@
+# ===== LTspice: file tự sinh khi chạy mô phỏng =====
+*.raw
+*.log
+*.net
+*.fra
+*.bak
+*.tmp
+
+# ===== File rác của hệ điều hành =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
