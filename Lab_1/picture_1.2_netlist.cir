@@ -1,0 +1,15 @@
+*Hinh 1.2
+
+*Dien tro
+R1 1 2 4
+R2 2 3 4
+R3 2 0 4
+
+*Nguon ap
+V1 1 0 10
+V2 3 0 4
+
+*Lenh mo phong
+.op
+
+.end

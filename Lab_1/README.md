@@ -2,7 +2,7 @@
 
 *đang cập nhật...*
 
-<!-->
+<!--
 
 ## Mục tiêu lab
 Trong bài lab này, mình sẽ:
@@ -31,3 +31,5 @@ Trong bài lab này, mình sẽ:
 - Tầm quan trọng của việc chọn đúng điểm GND trong khâu mô phỏng bằng LTspice, và sai sót sẽ xảy ra nếu không thực hiện đúng.
 
 ## (tùy chọn) Hướng phát triển thêm
+
+-->
