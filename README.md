@@ -8,7 +8,7 @@
 ---
 
 ## Danh sách lab
-- [ ] [Lab 1 — Các linh kiện điện tử cơ bản](Lab_1/) *(đang tiến hành)*
+- [X] [Lab 1 — Các linh kiện điện tử cơ bản](Lab_1/) *(28/09 - 02/10)*
 - [ ] [Lab 2 — Định luật Kirchhoff](Lab_2/)
 - [ ] [Lab 3 — Các phương pháp phân tích mạch](Lab_3/)
 - [ ] [Lab 4 — Mạch xác lập điều hòa](Lab_4/)
